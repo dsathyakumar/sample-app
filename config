@@ -1,0 +1,11 @@
+#GitHub personal
+Host personal
+  HostName github.com
+  User dsathyakumar
+  IdentityFile ~/.ssh/personalgit_rsa
+
+#Github work
+Host work
+  Hostname github.corp.ebay.com
+  User dasathyakuma
+  IdentityFile ~/.ssh/ebaycorp_rsa
